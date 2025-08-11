@@ -41,6 +41,9 @@ buterin-cards-website/node_modules/
 buterin-cards-website/out/
 buterin-cards-website/.vercel/
 
+# Allow access to source files for development
+!buterin-cards-website/src/**
+
 # Data files
 token_quote_mapping.json
 quote_token_mapping.json
